@@ -1,2 +1,2 @@
 # SparkServer
-A dummy server application. It will create RestAPIs (CRUD) with any model class. 
+A dummy server application, creates RestAPIs (CRUD) with any model class. 
